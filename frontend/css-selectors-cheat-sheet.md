@@ -126,7 +126,7 @@ Nesting allows you to write CSS rules inside each other, creating a visual hiera
 
 ---
 
-## Specificity Hierarchy (Lowest to Highest)
+## 8. Specificity Hierarchy (Lowest to Highest)
 If multiple CSS rules apply to the same element, the browser uses **specificity** to determine which one wins:
 
 1. **Universal selectors** (`*`) and combinators (`>`, `+`, `~`) = `0`
